@@ -1,5 +1,5 @@
-125. Valid Palindrome
-https://leetcode.com/problems/valid-palindrome/description/
+#125. Valid Palindrome
+#https://leetcode.com/problems/valid-palindrome/description/
 
 def is_palindrome(s):
   left = 0
