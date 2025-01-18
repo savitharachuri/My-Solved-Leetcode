@@ -8,8 +8,8 @@ def remove_node_from_end(head, n):
   if not right: # it means if right == None
     return head.next 
 
-  while right.next != None:
-    right = right.next
+  while right.next != None: # aligning left so that the difference between last node, i.e, right and left is n
+    right = right.next 
     left = left.next
 
   left.next = left.next.next
