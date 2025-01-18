@@ -1,5 +1,5 @@
 # My-Solved-Leetcode
-A record of all the Leetcode Data Structures problems solved in Python
+A record of all the Leetcode Data Structures problems I solved in Python
 
 ## Two Pointers
   - Valid Palindrome
