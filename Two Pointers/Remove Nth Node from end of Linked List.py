@@ -1,3 +1,6 @@
+# 19. Remove Nth Node From End of List
+# https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
+
 def remove_node_from_end(head, n):
   right = head
   left = head
